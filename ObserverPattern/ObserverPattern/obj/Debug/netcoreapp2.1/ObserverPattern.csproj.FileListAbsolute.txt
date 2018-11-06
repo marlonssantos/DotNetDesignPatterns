@@ -1,0 +1,11 @@
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.AssemblyInfo.cs
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.deps.json
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.runtimeconfig.json
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.runtimeconfig.dev.json
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.dll
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.1\ObserverPattern.pdb
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.dll
+C:\Users\Marlon_S_Santos\Documents\Visual Studio 2017\Projects\DotNetDesignPatterns\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.1\ObserverPattern.pdb
