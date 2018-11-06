@@ -27,6 +27,7 @@ namespace ObserverPattern
             ibm.Price = 120.75;
 
             dell.Price = 201.00;
+            dell.Price = 200.50;
 
             // Wait for user
             Console.ReadKey();
